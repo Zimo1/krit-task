@@ -88,7 +88,7 @@ Mm3ng <--> m3ng       Mm3ng         -6       m3ng
 Mft3ng <--> ft3ng    Mft3ng         -6      ft3ng  
 Gwh <--> wh             Gwh         -9         wh  
   
-**Данные**  
+**Данные TFC**  
 Энергетический ресурс: Природный газ (Natural gas)  
 Единица     Совокупное конечное энергопотребление (Total final consumption)  
 измерения       2017         2018         2019         2020         2021  
